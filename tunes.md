@@ -1,6 +1,6 @@
 # Tune Database
 
-## Format:
+## Example Tune:
 
 **Vehicle:** Chiron (Chiraq) *[DRAG]*
 
