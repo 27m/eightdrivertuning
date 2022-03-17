@@ -2,6 +2,8 @@
 
 ## Head over to [Tunes](tunes.md) for a list of current tunes.
 
+## If you want to learn how to tune, check out the [wiki](https://github.com/27m/eightdrivertuning/wiki)!
+
 ## Adding your tune:
 
 ### Option 1:
