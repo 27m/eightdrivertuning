@@ -6,8 +6,7 @@
 
 (Photo of car):
 
-![RobloxPlayerBeta 2022-01-24 04-04-31](https://user-images.githubusercontent.com/70358442/158908588-b5b5797f-1b69-4dec-be32-0e189951aa5f.png)
-
+![image](https://user-images.githubusercontent.com/70358442/158911216-d618f188-3079-4cfa-8e71-43f730debabf.png)
 
 - Ratios:
    - Gears
