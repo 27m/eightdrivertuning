@@ -6,7 +6,7 @@
 
 (Photo of car):
 
-![image](https://user-images.githubusercontent.com/70358442/158907767-4fd36082-75e6-4f3c-88bb-337007458186.png)
+![image](https://user-images.githubusercontent.com/70358442/158911259-d42d771d-d129-4e25-942a-af269e8beb27.png)
 
 *(Image courtesy of Juvy~#9205)*
 
