@@ -4,6 +4,8 @@
 
 ## Adding your tune:
 
+### Option 1:
+
 First, create a fork of the repository (https://github.com/27m/eightdrivertuning/tree/gh-pages)
 
 ![image](https://user-images.githubusercontent.com/70358442/158906222-430cce2c-fbdf-4c49-a070-8501498c9198.png)
@@ -16,4 +18,6 @@ Once you have your edited files, open a pull request.
 
 Then, wait for a maintainer of this repository to approve your pull request, shortly afterwards your tune should be live on the site!
 
+### Option 2:
 
+DM marshall#4949 with all the details of your tune, and we will add it for you.
